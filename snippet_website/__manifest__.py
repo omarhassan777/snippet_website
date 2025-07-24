@@ -1,11 +1,11 @@
 {
-    'name': 'Snippest Website custom',
+    'name': 'Snippet Website custom',
     'version': '1.0',
-    'category': 'Accounting',
-    'sequence': 1,
+    'category': 'website',
+    'sequence': 10,
     'summary': '',
     'description': """
-            Invoice Tax
+            create snippet on website odoo 17
     """,
      'author': '',
     'company': '',
@@ -21,7 +21,7 @@
     ],
     'assets': {
         'web.assets_frontend': [
-            'snippest_website/static/src/scss/property_agent.scss',
+            'snippet_website/static/src/scss/property_agent.scss',
             
         ]
     },

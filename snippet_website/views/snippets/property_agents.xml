@@ -24,7 +24,7 @@
                 <div class="row justify-content-center pb-5">
                     <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
                         <div class="agent-img-container">
-                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-1.jpg" alt="Agent 1"/>
+                            <img class="object-fit rounded" src="/snippet_website/static/src/img/agent-1.jpg" alt="Agent 1"/>
                         </div>
                         <h5 class="mb-0 mt-3">Agent Name</h5>
                         <div class="company-name">Company Name</div>
@@ -32,7 +32,7 @@
                     
                     <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
                         <div class="agent-img-container">
-                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-2.jpg" alt="Agent 2"/>
+                            <img class="object-fit rounded" src="/snippet_website/static/src/img/agent-2.jpg" alt="Agent 2"/>
                         </div>
                         <h5 class="mb-0 mt-3">Agent Name2</h5>
                         <div class="company-name">Company Name2</div>
@@ -40,7 +40,7 @@
                     
                     <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
                         <div class="agent-img-container">
-                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-3.jpg" alt="Agent 3"/>
+                            <img class="object-fit rounded" src="/snippet_website/static/src/img/agent-3.jpg" alt="Agent 3"/>
                         </div>
                         <h5 class="mb-0 mt-3">Agent Name3</h5>
                         <div class="company-name">Company Name3</div>
@@ -49,7 +49,7 @@
                     
                     <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
                         <div class="agent-img-container">
-                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-4.jpg" alt="Agent 4"/>
+                            <img class="object-fit rounded" src="/snippet_website/static/src/img/agent-4.jpg" alt="Agent 4"/>
                         </div>
                         <h5 class="mb-0 mt-3">Agent Name4</h5>
                         <div class="company-name">Company Name4</div>
@@ -58,7 +58,7 @@
                     
                     <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
                         <div class="agent-img-container" >
-                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-5.jpg" alt="Agent 5"/>
+                            <img class="object-fit rounded" src="/snippet_website/static/src/img/agent-5.jpg" alt="Agent 5"/>
                         </div>
                         <h5 class="mb-0 mt-3">Agent Name5</h5>
                         <div class="company-name">Company Name5</div>

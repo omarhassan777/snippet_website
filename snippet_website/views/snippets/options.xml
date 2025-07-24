@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
 
+
+        
 <!-- Property Agents Options -->
     <template id="s_property_agents_options" inherit_id="website.snippet_options" name="Property Agents Options">
         <xpath expr="." position="inside">
