@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+
+
+    <template id="s_property_agents" name="Property Agents">
+        <section class="s_property_agents border-none">
+            <!-- <style>
+                
+                
+                .s_property_agents img.object-fit {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            </style> -->
+            
+            <div class="container">
+                <div class="text-center py-5">
+                    <h2 class="h1">Property Agents</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, repellat.</p>
+                </div>
+
+                <div class="row justify-content-center pb-5">
+                    <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
+                        <div class="agent-img-container">
+                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-1.jpg" alt="Agent 1"/>
+                        </div>
+                        <h5 class="mb-0 mt-3">Agent Name</h5>
+                        <div class="company-name">Company Name</div>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
+                        <div class="agent-img-container">
+                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-2.jpg" alt="Agent 2"/>
+                        </div>
+                        <h5 class="mb-0 mt-3">Agent Name2</h5>
+                        <div class="company-name">Company Name2</div>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
+                        <div class="agent-img-container">
+                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-3.jpg" alt="Agent 3"/>
+                        </div>
+                        <h5 class="mb-0 mt-3">Agent Name3</h5>
+                        <div class="company-name">Company Name3</div>
+                        <p>Agent3</p>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
+                        <div class="agent-img-container">
+                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-4.jpg" alt="Agent 4"/>
+                        </div>
+                        <h5 class="mb-0 mt-3">Agent Name4</h5>
+                        <div class="company-name">Company Name4</div>
+                        <p>Agent</p>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-4 col-6 text-center mb-4">
+                        <div class="agent-img-container" >
+                            <img class="object-fit rounded" src="/snippest_website/static/src/img/agent-5.jpg" alt="Agent 5"/>
+                        </div>
+                        <h5 class="mb-0 mt-3">Agent Name5</h5>
+                        <div class="company-name">Company Name5</div>
+                        <p>Agent5</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </template>
+
+
+    
+
+
+</odoo>

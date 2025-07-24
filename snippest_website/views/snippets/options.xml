@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+<!-- Property Agents Options -->
+    <template id="s_property_agents_options" inherit_id="website.snippet_options" name="Property Agents Options">
+        <xpath expr="." position="inside">
+            <div data-selector=".s_property_agents">
+        
+                 <we-select string="Image Border">
+                    <we-button data-select-class="s_border-none">None</we-button>
+                    <we-button data-select-class="s_border-small">Small</we-button>
+                    <we-button data-select-class="s_border-medium">Medium</we-button>
+                    <we-button data-select-class="s_border-large">Large</we-button>
+                    <we-button data-select-class="s_border-extra-large">ExtraLarge</we-button>
+                </we-select>
+                 <we-select string="Company Name ">
+                    <we-button data-select-class="s_company_visible">visible</we-button>
+                    <we-button data-select-class="s_company_hidden">hidden</we-button>
+                   
+                </we-select>
+            </div>
+        </xpath>
+    </template>
+
+
+
+</odoo>

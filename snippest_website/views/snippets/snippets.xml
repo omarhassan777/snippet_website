@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <template id="custom_snippets" inherit_id="website.snippets" name="Custom Snippets" >
+     <xpath expr="//div[@id='snippet_structure']" position="before">
+     <div id="snippet_structure" class="o_panel">
+                <div class="o_panel_header">your home snippets</div>
+                    <div class="o_panel_body">
+                        <!-- <t t-snippet="website.s_banner" string="Banner" t-thumbnail="/website/static/src/img/snippets_thumbs/s_banner.svg">
+                            <keywords>hero, jumbotron</keywords>
+                        </t> -->
+                        <t t-snippet="snippest_website.s_property_agents" string="Property Agents" t-thumbnail="/snippest_website/static/src/img/snippets_thumbs/website_slide.svg">
+                            <keywords>property, agents</keywords>
+                        </t>
+                    </div>
+            </div>
+
+     </xpath>
+
+    </template>
+
+
+    <!-- <template id="property_agents_options" inherit_id="website.snippet_options" name="Property Agents Options" >
+
+        <xpath expr="//div[@data-js='Box']" position="after">
+            
+                    <div data-selector=".property_agents">
+                    <we-select string="Image Border">
+                        <we-button data-select-class="border-none">none</we-button>
+                        <we-button data-select-class="border-small">Small</we-button>
+                        <we-button data-select-class="border-medium">Medium</we-button>
+                        <we-button data-select-class="border-large">Large</we-button>
+                        <we-button data-select-class="border-extra" >Extra Large</we-button>
+                    </we-select>
+                </div>
+        </xpath>
+
+
+    </template> -->
+
+
+</odoo>

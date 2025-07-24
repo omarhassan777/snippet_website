@@ -1,0 +1,28 @@
+ .s_property_agents { 
+    &.s_border-small .agent-img-container
+    {
+        border: 2px solid $secondary;
+    }
+    &.s_border-medium .agent-img-container
+    {
+        border: 4px solid $secondary;
+    }
+    &.s_border-large .agent-img-container
+    {
+        border: 6px solid $secondary;
+    }
+    &.s_border-extra-large .agent-img-container
+    {
+        border: 12px solid $secondary;
+    }
+    &.s_company_hidden .company-name
+    {
+        display: none;
+    }
+    .agent-img-container {
+                    width: 150px;
+                    height: 150px;
+                    overflow: hidden;
+                    margin: 0 auto;
+                }
+  }
